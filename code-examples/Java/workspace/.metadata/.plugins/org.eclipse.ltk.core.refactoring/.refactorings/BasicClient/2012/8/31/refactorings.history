@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BasicClient.java&apos; to &apos;RTLSDevice/src/com.intelligentinsites.codesamples&apos;&#x0D;&#x0A;- Original project: &apos;BasicClient&apos;&#x0D;&#x0A;- Destination element: &apos;RTLSDevice/src/com.intelligentinsites.codesamples&apos;&#x0D;&#x0A;- Original element: &apos;com.intelligentinsites.codesamples.BasicClient.java&apos;" description="Copy compilation unit" destination="=RTLSDevice/src&lt;com.intelligentinsites.codesamples" element1="/src&lt;com.intelligentinsites.codesamples{BasicClient.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1343838660824" units="1" version="1.0"/>
+</session>

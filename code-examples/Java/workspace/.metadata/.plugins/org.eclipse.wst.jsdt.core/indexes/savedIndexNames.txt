@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\ThumbDrive\i2-test\code-examples\Java\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1562126300.index
+437149589.index
+3116985123.index
+3464894747.index

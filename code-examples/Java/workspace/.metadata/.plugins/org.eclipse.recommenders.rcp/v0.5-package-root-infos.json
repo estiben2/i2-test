@@ -1,0 +1,1523 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9c65be66b7d064aa969eed550ce6bca0c930fd4c",
+    "jarFileModificationDate": "2012-05-02T17:24:57.993-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "57115136d3a07ae50b66ca9fac2148bbca0d677b",
+    "jarFileModificationDate": "2012-06-27T01:38:36-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "picketbox-4.0.7.Final",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4cce6bd9f022eed1b8827a64929f45346c071309",
+    "jarFileModificationDate": "2012-07-17T15:29:55.593-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\picketbox\\main\\picketbox-4.0.7.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.security.jacc.jboss-jacc-api_1.4_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "3f04f4d0c5eed0f9f4c43b48df08767ae72038d6",
+    "jarFileModificationDate": "2012-07-17T15:29:47.572-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\security\\jacc\\api\\main\\jboss-jacc-api_1.4_spec-1.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ececf755ad0be59e88e5cbd67f333420e0cea3a7",
+    "jarFileModificationDate": "2012-05-02T17:24:57.973-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.enterprise.deploy.jboss-jad-api_1.2_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "fe6298a32dbe475a156339d3a3a8e20bc802bcab",
+    "jarFileModificationDate": "2012-07-17T15:29:47.205-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\enterprise\\deploy\\api\\main\\jboss-jad-api_1.2_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd",
+    "jarFileModificationDate": "2012-06-10T16:13:18-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.resteasy.resteasy-multipart-provider",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "b041ee347763d120369ba3ad0d79932d912e14f0",
+    "jarFileModificationDate": "2012-07-17T15:29:54.513-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-multipart-provider\\main\\resteasy-multipart-provider-2.3.2.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64849efdc10ea21eed3be7cc19ea7ec5af186776",
+    "jarFileModificationDate": "2012-06-29T20:40:02-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3dcce76e951c5ffaf5fc1e15001bbf62b54e9857",
+    "jarFileModificationDate": "2012-07-23T13:44:46.941-05:00",
+    "location": "C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-16\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.security.auth.message.jboss-jaspi-api_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "a2832db1f8f3577f2cb1c20dcca034e7f7359c1e",
+    "jarFileModificationDate": "2012-07-17T15:29:47.545-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\security\\auth\\message\\api\\main\\jboss-jaspi-api_1.0_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.fluent-hc",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9fdc71ee2d313b785509006f17b3d6f35aef44f",
+    "jarFileModificationDate": "2012-06-29T20:40:00-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\fluent-hc-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "61e9f9d11fe3e12ec62f633006e99d75fd7f19c8",
+    "jarFileModificationDate": "2011-12-02T21:37:36-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\commons-codec-1.6\\commons-codec-1.6-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.hibernate.javax.persistence.hibernate-jpa-2.0-api",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "3306a165afa81938fc3d8a0948e891de9f6b192b",
+    "jarFileModificationDate": "2012-07-17T15:29:47.450-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\persistence\\api\\main\\hibernate-jpa-2.0-api-1.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a",
+    "jarFileModificationDate": "2012-06-29T20:40:04-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\httpmime-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.hibernate.validator",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "eac2db0a9d86a9749724fe93d43afffa8106f25e",
+    "jarFileModificationDate": "2012-07-17T15:29:49.604-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\hibernate\\validator\\main\\hibernate-validator-4.2.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.transaction.jboss-transaction-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "2ab6236535e085d86f37fd97ddfdd35c88c1a419",
+    "jarFileModificationDate": "2012-07-17T15:29:47.692-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\transaction\\api\\main\\jboss-transaction-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7057917abdbd9cf08797e649a2d9a64948d329b7",
+    "jarFileModificationDate": "2012-06-27T01:18:26-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "javax.mail",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b907ef0a02ff6e809392b1e7149198497fcc8e49",
+    "jarFileModificationDate": "2012-07-17T15:29:47.396-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\mail\\api\\main\\mail-1.4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.as.jboss-as-controller-client",
+    "version": {
+      "major": 7,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "2313480f60c442dec920631fa2334f10b766b081",
+    "jarFileModificationDate": "2012-07-17T15:29:51.342-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\as\\controller-client\\main\\jboss-as-controller-client-7.1.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a",
+    "jarFileModificationDate": "2012-06-29T20:40:04-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpmime-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64849efdc10ea21eed3be7cc19ea7ec5af186776",
+    "jarFileModificationDate": "2012-06-29T20:40:02-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "async-http-servlet-3.0-2.3.2.Final-jandex",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0c99083e530a8de4319100f9125bb7cc4e1b488",
+    "jarFileModificationDate": "2012-07-17T15:29:54.328-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-jaxrs\\main\\async-http-servlet-3.0-2.3.2.Final-jandex.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.servlet.jsp.jboss-jsp-api_2.2_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "2b629bc9a598edc1f56ae6c98ca92c8346e27834",
+    "jarFileModificationDate": "2012-07-17T15:29:47.629-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\servlet\\jsp\\api\\main\\jboss-jsp-api_2.2_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient-cache",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "027926125726981c5653bc31007deb115f5d9fba",
+    "jarFileModificationDate": "2012-06-29T20:40:00-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpclient-cache-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.ws.rs.jboss-jaxrs-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "463018df51d03fae28cf5986810d0fadb3c5ab0f",
+    "jarFileModificationDate": "2012-07-17T15:29:47.748-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\ws\\rs\\api\\main\\jboss-jaxrs-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24992bd13935994f63d86ea92d8ab487217bc772",
+    "jarFileModificationDate": "2012-06-27T01:18:26-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore-nio",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0de9f5d108746458c899b4857871706ace00c2dd",
+    "jarFileModificationDate": "2012-06-10T16:09:02-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-core-4.2.1\\lib\\httpcore-nio-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io-2.4-test-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "93282871c79eea82fad9effc645494c0310c521d",
+    "jarFileModificationDate": "2012-06-12T18:19:46-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-io-2.4\\commons-io-2.4-test-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jsr181-api-1.0-MR1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "401cc1d0e5f0d8f4d0532a54928ceaa27ec21258",
+    "jarFileModificationDate": "2012-07-17T15:29:47.364-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\jws\\api\\main\\jsr181-api-1.0-MR1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.servlet.jstl.jboss-jstl-api_1.2_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 2,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "b449cf05833372acc8c8f67ac5051aabda3c2dfc",
+    "jarFileModificationDate": "2012-07-17T15:29:47.662-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\servlet\\jstl\\api\\main\\jboss-jstl-api_1.2_spec-1.0.2.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.rmi.jboss-rmi-api_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "f7dc3adaae5eee613f2e5e1a2f9978d96cf5c22f",
+    "jarFileModificationDate": "2012-07-17T15:29:47.515-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\rmi\\api\\main\\jboss-rmi-api_1.0_spec-1.0.4.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "resteasy-jaxb-provider-2.3.2.Final-jandex",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3183db3624072e72d3b603eb27f79a4853ffd95",
+    "jarFileModificationDate": "2012-07-17T15:29:54.297-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-jaxb-provider\\main\\resteasy-jaxb-provider-2.3.2.Final-jandex.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.resteasy.resteasy-jaxrs",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "32c4b816ea483c51740fef54024cb85643bc668e",
+    "jarFileModificationDate": "2012-07-17T15:29:54.376-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-jaxrs\\main\\resteasy-jaxrs-2.3.2.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2011-12-04T17:29:10-06:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2011-12-04T17:29:10-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "688bf66cba28862d14de87b3fec0242b2b149f12",
+    "jarFileModificationDate": "2011-12-02T21:37:36-06:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-codec-1.6\\commons-codec-1.6-tests.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "688bf66cba28862d14de87b3fec0242b2b149f12",
+    "jarFileModificationDate": "2011-12-02T21:37:36-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-codec-1.6\\commons-codec-1.6-tests.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io-2.4-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3b5b0183c509963d5ffdf0d9d452a4a7521aeaa3",
+    "jarFileModificationDate": "2012-06-12T18:19:58-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-io-2.4\\commons-io-2.4-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "45beebb83ca08072718e2217decde5e475032181",
+    "jarFileModificationDate": "2012-06-27T01:05:52-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "javax.validation.validation-api",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "GA"
+    },
+    "jarFileFingerprint": "b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e",
+    "jarFileModificationDate": "2012-07-17T15:29:47.728-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\validation\\api\\main\\validation-api-1.0.0.GA.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64849efdc10ea21eed3be7cc19ea7ec5af186776",
+    "jarFileModificationDate": "2012-06-29T20:40:02-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "22cd9af73b7153b5383863a7ca961cdc28ae70d0",
+    "jarFileModificationDate": "2012-06-27T01:13:23-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd",
+    "jarFileModificationDate": "2012-06-10T16:13:18-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "61e9f9d11fe3e12ec62f633006e99d75fd7f19c8",
+    "jarFileModificationDate": "2011-12-02T21:37:36-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-codec-1.6\\commons-codec-1.6-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore-ab",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ad4798acf47382f2b6d5572a880e596dacddfde6",
+    "jarFileModificationDate": "2012-06-10T16:09:00-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-core-4.2.1\\lib\\httpcore-ab-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient-cache",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "027926125726981c5653bc31007deb115f5d9fba",
+    "jarFileModificationDate": "2012-06-29T20:40:00-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\httpclient-cache-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io-2.4-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f2d8698c46d1167ff24b06a840a87d91a02db891",
+    "jarFileModificationDate": "2012-06-12T18:19:46-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-io-2.4\\commons-io-2.4-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore-nio",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0de9f5d108746458c899b4857871706ace00c2dd",
+    "jarFileModificationDate": "2012-06-10T16:09:02-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-core-4.2.1\\lib\\httpcore-nio-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.servlet",
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "v201112011016"
+    },
+    "jarFileFingerprint": "0aaaa85845fb5c59da00193f06b8e5278d8bf3f8",
+    "jarFileModificationDate": "2012-07-24T14:32:16.020-05:00",
+    "location": "C:\\ThumbDrive\\eclipse-jee-juno-win32-jetty\\plugins\\javax.servlet_3.0.0.v201112011016.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2011-12-02T21:37:34-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\commons-codec-1.6\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.fluent-hc",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9fdc71ee2d313b785509006f17b3d6f35aef44f",
+    "jarFileModificationDate": "2012-06-29T20:40:00-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\fluent-hc-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2012-06-12T18:19:44-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\commons-io-2.4\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.el.jboss-el-api_2.2_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "39d6bd0272bae967e99a60de2c8cf1754e13cfc9",
+    "jarFileModificationDate": "2012-07-17T15:29:47.147-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\el\\api\\main\\jboss-el-api_2.2_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1a24429a45a8f74cabd56ec45d5cf68c54159b6a",
+    "jarFileModificationDate": "2012-06-27T01:38:51-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2012-06-12T18:19:44-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-io-2.4\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd",
+    "jarFileModificationDate": "2012-06-10T16:13:18-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.xml.soap.jboss-saaj-api_1.3_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "6889e071d48a16056df01a1bae38f17157413d64",
+    "jarFileModificationDate": "2012-07-17T15:29:47.893-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\xml\\soap\\api\\main\\jboss-saaj-api_1.3_spec-1.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient-cache",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "027926125726981c5653bc31007deb115f5d9fba",
+    "jarFileModificationDate": "2012-06-29T20:40:00-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpclient-cache-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3c2c41ec5e3ca4131f83cf611f5fd837892220bd",
+    "jarFileModificationDate": "2011-12-02T21:37:46-06:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-codec-1.6\\commons-codec-1.6-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "wsdl4j-1.6.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dec1669fb6801b7328e01ad72fc9e10b69ea06c1",
+    "jarFileModificationDate": "2012-07-17T15:29:47.782-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\wsdl4j\\api\\main\\wsdl4j-1.6.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2012-04-10T20:10:38-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "44fb8e9dff4a0ec4081bb5492b9a3a9ab9c3466b",
+    "jarFileModificationDate": "2012-07-17T15:29:47.602-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\servlet\\api\\main\\jboss-servlet-api_3.0_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.interceptor.jboss-interceptors-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "30f4b941417a72fe02b06a849f85b010467b3e1f",
+    "jarFileModificationDate": "2012-07-17T15:29:47.314-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\interceptor\\api\\main\\jboss-interceptors-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f56383db77ae9502e6ca617e57d55ee73d631c46",
+    "jarFileModificationDate": "2012-05-02T17:24:57.923-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "activation-1.1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "485de3a253e23f645037828c07f1d7f1af40763a",
+    "jarFileModificationDate": "2012-07-17T15:29:47.055-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\activation\\api\\main\\activation-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4e5a5b07fd78cac5dda6c75f601ee5410f8d9def",
+    "jarFileModificationDate": "2012-06-27T01:38:32-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "70dd7538052e95d127313bebe11ca119c4a72eca",
+    "jarFileModificationDate": "2012-06-12T18:19:46-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-io-2.4\\commons-io-2.4-tests.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e1c4e0e70bbd32cd6a1dbf970da95e64a0821ff9",
+    "jarFileModificationDate": "2012-06-10T16:09:02-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-core-4.2.1\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.xml.bind.jboss-jaxb-api_2.2_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 3,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "cc005681297fb411fba21ddbef43eee48304fde1",
+    "jarFileModificationDate": "2012-07-17T15:29:47.803-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\xml\\bind\\api\\main\\jboss-jaxb-api_2.2_spec-1.0.3.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.xml.registry.jboss-jaxr-api_1.0_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "a6574ceafad7f89b2da9d817542edfb449c814e2",
+    "jarFileModificationDate": "2012-07-17T15:29:47.843-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\xml\\registry\\api\\main\\jboss-jaxr-api_1.0_spec-1.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore-ab",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ad4798acf47382f2b6d5572a880e596dacddfde6",
+    "jarFileModificationDate": "2012-06-10T16:09:00-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-core-4.2.1\\lib\\httpcore-ab-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "27c24d26e4c5d57976e6926367985548678e913c",
+    "jarFileModificationDate": "2012-07-23T14:25:58.251-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io-2.4-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3b5b0183c509963d5ffdf0d9d452a4a7521aeaa3",
+    "jarFileModificationDate": "2012-06-12T18:19:58-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-io-2.4\\commons-io-2.4-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "70020954a878f151d863091253774186b91b4ac2",
+    "jarFileModificationDate": "2012-05-02T17:24:57.973-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2011-12-02T21:37:34-06:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-codec-1.6\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2011-12-04T17:29:10-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e817b963bd49edf52893c9e74725805aeb47cd34",
+    "jarFileModificationDate": "2012-07-12T17:34:15.696-05:00",
+    "location": "C:\\commons-codec-1.6-bin.zip",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.inject-1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6975da39a7040257bd51d21a231b76c915872d38",
+    "jarFileModificationDate": "2012-07-17T15:29:47.288-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\inject\\api\\main\\javax.inject-1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "resteasy-jaxrs-2.3.2.Final-jandex",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "de4b5399f681bddbe82e17d770feef779ea7d3df",
+    "jarFileModificationDate": "2012-07-17T15:29:54.356-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-jaxrs\\main\\resteasy-jaxrs-2.3.2.Final-jandex.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "688bf66cba28862d14de87b3fec0242b2b149f12",
+    "jarFileModificationDate": "2011-12-02T21:37:36-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\commons-codec-1.6\\commons-codec-1.6-tests.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.picketbox.picketbox-commons",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "final"
+    },
+    "jarFileFingerprint": "b0f0d1e040edb08e42e527bb6a411c3a9370919b",
+    "jarFileModificationDate": "2012-07-17T15:29:55.604-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\picketbox\\main\\picketbox-commons-1.0.0.final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "70dd7538052e95d127313bebe11ca119c4a72eca",
+    "jarFileModificationDate": "2012-06-12T18:19:46-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-io-2.4\\commons-io-2.4-tests.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.jboss-dmr",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "7506200d32c2bb0833969ab13e8a0e4795853198",
+    "jarFileModificationDate": "2012-07-17T15:29:53.136-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\dmr\\main\\jboss-dmr-1.1.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.resteasy.async-http-servlet-3.0",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "f5a58c4c4b45f7da19244acd0e71701f47562526",
+    "jarFileModificationDate": "2012-07-17T15:29:54.334-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-jaxrs\\main\\async-http-servlet-3.0-2.3.2.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.jms.jboss-jms-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "0fcf14e80bb363847b0ed955df0a5a01242b9f26",
+    "jarFileModificationDate": "2012-07-17T15:29:47.340-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\jms\\api\\main\\jboss-jms-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e1c4e0e70bbd32cd6a1dbf970da95e64a0821ff9",
+    "jarFileModificationDate": "2012-06-10T16:09:02-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-core-4.2.1\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.logging.jboss-logging",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "GA"
+    },
+    "jarFileFingerprint": "c71f2856e7b60efe485db39b37a31811e6c84365",
+    "jarFileModificationDate": "2012-07-17T15:29:53.633-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\logging\\main\\jboss-logging-3.1.0.GA.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore-nio",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0de9f5d108746458c899b4857871706ace00c2dd",
+    "jarFileModificationDate": "2012-06-10T16:09:02-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-core-4.2.1\\lib\\httpcore-nio-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3c2c41ec5e3ca4131f83cf611f5fd837892220bd",
+    "jarFileModificationDate": "2011-12-02T21:37:46-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\commons-codec-1.6\\commons-codec-1.6-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.picketbox.picketbox-infinispan",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 7,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "83d9d552b7fb7b4c872dd4f551d9f45957f738a4",
+    "jarFileModificationDate": "2012-07-17T15:29:55.615-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\picketbox\\main\\picketbox-infinispan-4.0.7.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.resteasy.resteasy-jaxb-provider",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "4349fc9d060598cb0caa2562558024242bd04b0b",
+    "jarFileModificationDate": "2012-07-17T15:29:54.311-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-jaxb-provider\\main\\resteasy-jaxb-provider-2.3.2.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io-2.4-test-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "93282871c79eea82fad9effc645494c0310c521d",
+    "jarFileModificationDate": "2012-06-12T18:19:46-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-io-2.4\\commons-io-2.4-test-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore-ab",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ad4798acf47382f2b6d5572a880e596dacddfde6",
+    "jarFileModificationDate": "2012-06-10T16:09:00-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-core-4.2.1\\lib\\httpcore-ab-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.xml.ws.jboss-jaxws-api_2.2_spec",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "b8ed6a27610f2db421c83d3a6f320c6c614706e3",
+    "jarFileModificationDate": "2012-07-17T15:29:47.935-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\xml\\ws\\api\\main\\jboss-jaxws-api_2.2_spec-2.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "07447f54ac0c16f3cbcab37dbabd7bc79c1fcd19",
+    "jarFileModificationDate": "2012-05-02T17:24:57.973-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "resteasy-multipart-provider-2.3.2.Final-jandex",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "84b1bc3fc39371180dc2e44966dbfcd9b2d05fcd",
+    "jarFileModificationDate": "2012-07-17T15:29:54.493-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\resteasy\\resteasy-multipart-provider\\main\\resteasy-multipart-provider-2.3.2.Final-jandex.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a",
+    "jarFileModificationDate": "2012-06-29T20:40:04-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpmime-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2012-04-10T20:10:38-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.annotation.jboss-annotations-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "394e909e8b61259bcd63e9ba8b0d7a636d8db479",
+    "jarFileModificationDate": "2012-07-17T15:29:47.079-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\annotation\\api\\main\\jboss-annotations-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.fluent-hc",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9fdc71ee2d313b785509006f17b3d6f35aef44f",
+    "jarFileModificationDate": "2012-06-29T20:40:00-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\httpcomponents-client-4.2.1\\lib\\fluent-hc-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.ejb.jboss-ejb-api_3.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "45670ed292a56924505b9a04eb623761d80deb2d",
+    "jarFileModificationDate": "2012-07-17T15:29:47.122-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\ejb\\api\\main\\jboss-ejb-api_3.1_spec-1.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cdi-api-1.0-SP4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6e38490033eb8b36c4cf1f7605163424a574dcf0",
+    "jarFileModificationDate": "2012-07-17T15:29:47.180-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\enterprise\\api\\main\\cdi-api-1.0-SP4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.ejb3.jboss-ejb3-ext-api",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8f00e93831a0fbd5e2390c8f49cd1f8fecbd7bd4",
+    "jarFileModificationDate": "2012-07-17T15:29:53.185-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\org\\jboss\\ejb3\\main\\jboss-ejb3-ext-api-2.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.management.j2ee.jboss-j2eemgmt-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "0d2e7eba90388fef470cbd7abd06f8c47f1d3b91",
+    "jarFileModificationDate": "2012-07-17T15:29:47.423-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\management\\j2ee\\api\\main\\jboss-j2eemgmt-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3c2c41ec5e3ca4131f83cf611f5fd837892220bd",
+    "jarFileModificationDate": "2011-12-02T21:37:46-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-codec-1.6\\commons-codec-1.6-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.faces.jboss-jsf-api_2.1_spec",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "3f1d6ca5f8eed6cccc40e76f31529f57fb17316b",
+    "jarFileModificationDate": "2012-07-17T15:29:47.264-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\faces\\api\\main\\jboss-jsf-api_2.1_spec-2.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-codec-1.6-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "61e9f9d11fe3e12ec62f633006e99d75fd7f19c8",
+    "jarFileModificationDate": "2011-12-02T21:37:36-06:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-codec-1.6\\commons-codec-1.6-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.resource.jboss-connector-api_1.6_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "0209b6590e55b5fc1a3a87ad72c57a77e8a65a32",
+    "jarFileModificationDate": "2012-07-17T15:29:47.474-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\resource\\api\\main\\jboss-connector-api_1.6_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4dde16b5195387a78c85f48c9bf115d4252fbf7a",
+    "jarFileModificationDate": "2012-06-27T01:38:44-05:00",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2012-06-12T18:19:44-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-io-2.4\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2012-04-10T20:10:38-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.spec.javax.xml.rpc.jboss-jaxrpc-api_1.1_spec",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "1a10a2215a433d5102aef193692557709ae49573",
+    "jarFileModificationDate": "2012-07-17T15:29:47.868-05:00",
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\xml\\rpc\\api\\main\\jboss-jaxrpc-api_1.1_spec-1.0.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b1b6ea3b7e4aa4f492509a4952029cd8e48019ad",
+    "jarFileModificationDate": "2012-06-12T18:19:44-05:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\libs\\commons-io-2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io-2.4-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f2d8698c46d1167ff24b06a840a87d91a02db891",
+    "jarFileModificationDate": "2012-06-12T18:19:46-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\commons-io-2.4\\commons-io-2.4-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e1c4e0e70bbd32cd6a1dbf970da95e64a0821ff9",
+    "jarFileModificationDate": "2012-06-10T16:09:02-05:00",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-core-4.2.1\\lib\\httpcore-4.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b7f0fc8f61ecadeb3695f0b9464755eee44374d4",
+    "jarFileModificationDate": "2011-12-02T21:37:34-06:00",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\BasicClient\\commons-codec-1.6\\commons-codec-1.6.jar",
+    "javaRuntime": false
+  }
+]

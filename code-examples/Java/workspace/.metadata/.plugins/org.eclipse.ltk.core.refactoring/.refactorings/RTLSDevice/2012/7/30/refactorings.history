@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;RTLSDevice/res/layout/activity_sensor.xml&apos; to &apos;layout.xml&apos;" description="Rename resource &apos;activity_sensor.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/activity_sensor.xml" name="layout.xml" stamp="1343076187199" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;RTLSDevice/res/layout/layout.xml&apos; to &apos;activity_sensor.xml&apos;" description="Rename resource &apos;layout.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/layout.xml" name="activity_sensor.xml" stamp="1343076434607" updateReferences="true"/>
+</session>

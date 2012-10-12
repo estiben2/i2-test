@@ -1,0 +1,48 @@
+{
+  "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files (x86)\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:call:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/juno/): GET request of: jre/jre/1.0.0/jre-1.0.0-call.zip from remote-models failed"
+  },
+  "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\commons-codec-1.6.jar": {
+    "coordinate": "org.apache.commons:org.apache.commons.codec:zip:call:1.0.0",
+    "location": "C:\\Users\\steven.douglas\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\commons-codec-1.6.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\src\\insites-sdk\\code-samples\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar": {
+    "coordinate": "org.apache.httpcomponents:org.apache.httpcomponents.httpclient:zip:call:4.0.0",
+    "location": "C:\\src\\insites-sdk\\code-samples\\workspace\\BasicClient\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\src\\insites-sdk\\code-samples\\workspace\\BasicClient\\src": {
+    "location": "C:\\src\\insites-sdk\\code-samples\\workspace\\BasicClient\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\src\\insites-sdk\\code-samples\\workspace\\BasicClient\\src\u0027. Skipped."
+  },
+  "C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-16\\android.jar": {
+    "location": "C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-16\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-16\\android.jar\u0027. Neither fingerprint \u00273dcce76e951c5ffaf5fc1e15001bbf62b54e9857\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\servlet\\api\\main\\jboss-servlet-api_3.0_spec-1.0.0.Final.jar": {
+    "location": "C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\servlet\\api\\main\\jboss-servlet-api_3.0_spec-1.0.0.Final.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\ThumbDrive\\jboss-as-7.1.1.Final\\modules\\javax\\servlet\\api\\main\\jboss-servlet-api_3.0_spec-1.0.0.Final.jar\u0027. Neither fingerprint \u002744fb8e9dff4a0ec4081bb5492b9a3a9ab9c3466b\u0027 nor symbolic name \u0027org.jboss.spec.javax.servlet.jboss-servlet-api_3.0_spec\u0027 are known."
+  },
+  "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar": {
+    "coordinate": "org.apache.httpcomponents:org.apache.httpcomponents.httpclient:zip:call:4.0.0",
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\EquipmentCreator\\httpcomponents-client-4.2.1\\lib\\httpclient-4.2.1.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\gen": {
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\gen\u0027. Skipped."
+  },
+  "C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\src": {
+    "location": "C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\src\\insites-sdk\\code-samples\\Eclipse\\RTLSDevice\\src\u0027. Skipped."
+  }
+}

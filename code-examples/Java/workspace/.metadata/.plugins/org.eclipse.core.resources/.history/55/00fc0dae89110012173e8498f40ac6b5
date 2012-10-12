@@ -1,0 +1,4 @@
+StaffLister is a Web service written in Java which makes calls to the InSites Web Services API.
+You'll need to point it at a running instance of the InSites Platform, which is a hard-coded value.
+
+It retrieves a list of all locations which are 'floors', then allows the user to select  

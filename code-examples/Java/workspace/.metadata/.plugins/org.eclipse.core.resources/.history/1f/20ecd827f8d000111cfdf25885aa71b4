@@ -1,0 +1,62 @@
+
+/*Sample Listing and Pagination of Equipment, Type, Status and Sensors
+
+This simple console application demonstrates using the Intelligent InSites API to perform the following actions.
+
+    List First 5 Equipment Records (pagination)
+    List Next 5 Equipment Records (pagination)
+    List up to 100 Equipment Types
+    List up to 100 Equipment Statuses
+    List up to 100 Equipment Service Statuses
+    List 10 sensors and the entities they are attached to.
+
+  This package implements the BasicClient Class.*/
+
+/*
+ * Copyright (c) Intelligent InSites. All rights reserved.
+ * No warranty expressed or implied.
+ * http://www.intelligentinsites.com
+ */
+
+package com.intelligentinsites.codesamples;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class EquipmentLister {
+    public static void main(String[] args) {
+        BasicClient client = new BasicClient("localhost", "admin", "456");
+        
+        System.out.println("List the first 5 equipment records");
+        Map<String, Object> params1 = new HashMap<String, Object>();
+        params1.put("limit", 5);
+        String response1 = client.get("/api/2.0/rest/equipment.xml", params1);
+        System.out.println(response1);
+        
+        System.out.println("\n\nList the next 5 equipment records");
+        Map<String, Object> params2 = new HashMap<String, Object>();
+        params2.put("limit", 5);
+        params2.put("first-result", 5);
+        String response2 = client.get("/api/2.0/rest/equipment.xml", params2);
+        System.out.println(response2);
+        
+        System.out.println("\n\nList 100 equipment types");
+        String equipmentTypes = client.get("/api/2.0/rest/equipment-types.xml", new HashMap<String, Object>());
+        System.out.println(equipmentTypes);
+
+        System.out.println("\n\nList 100 equipment statuses");
+        String equipmentStatuses = client.get("/api/2.0/rest/equipment-statuses.xml", new HashMap<String, Object>());
+        System.out.println(equipmentStatuses);
+
+        System.out.println("\n\nList 100 equipment service statuses");
+        String equipmentServiceStatuses = client.get("/api/2.0/rest/equipment-service-statuses.xml", new HashMap<String, Object>());
+        System.out.println(equipmentServiceStatuses);
+        
+        System.out.println("\n\nList 10 sensors and include the entity that they are attached to");
+        Map<String, Object> sensorsParams = new HashMap<String, Object>();
+        sensorsParams.put("limit", 10);
+        sensorsParams.put("expand", "entity-attached-to");
+        String sensors = client.get("/api/2.0/rest/sensors.xml", sensorsParams);
+        System.out.println(sensors);
+    }
+}

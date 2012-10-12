@@ -1,0 +1,26 @@
+INDEX VERSION 1.126+C:\ThumbDrive\i2-test\code-examples\Java\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1144188029.index
+1820024274.index
+705294599.index
+1479708307.index
+2706502329.index
+728132027.index
+3256372620.index
+683184654.index
+142954407.index
+1075156909.index
+2979907418.index
+3015671029.index
+4149142647.index
+4018706093.index
+2042836131.index
+2708239607.index
+3227655793.index
+2089810312.index
+2313917702.index
+423518897.index
+323474759.index
+1627748839.index
+384216248.index
+3626931047.index
+1062972602.index

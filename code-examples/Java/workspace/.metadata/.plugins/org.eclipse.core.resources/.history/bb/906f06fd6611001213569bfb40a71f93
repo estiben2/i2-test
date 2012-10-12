@@ -1,0 +1,32 @@
+package com.intelligentinsites.codesamples;
+
+import android.os.AsyncTask;
+
+/**
+ * 
+ */
+public class CallAPITask extends AsyncTask<String, Void, String> {
+	
+	@Override
+	protected String doInBackground(String... params) {
+		String response;
+    	BasicClient client = new BasicClient(SensorActivity.hostIP.getText().toString(),
+    			SensorActivity.userName.getText().toString(),
+    			SensorActivity.password.getText().toString(),
+    			Integer.parseInt(SensorActivity.portNum.getText().toString()));
+    	try {
+    		response = client.post(params[0]);
+    	}
+    	catch (Exception e)
+    	{
+    		System.out.println(e.getMessage());
+    		return response;
+    	}
+	}
+	
+	@Override
+	protected void onPostExecute(String response) {
+		System.out.println("Message Sent");
+		System.out.println(response);
+    }
+}

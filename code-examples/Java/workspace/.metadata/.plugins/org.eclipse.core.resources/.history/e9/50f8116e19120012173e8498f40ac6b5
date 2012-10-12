@@ -1,0 +1,9 @@
+RTLSDevice is an Android application which makes calls to the InSites Web Services API. The purpose 
+is to demonstrate a third-party system relaying sensor information to the InSties Platform.
+
+The application allows you to specify connection credentials, and the label of an existing sensor tracked by InSites, then do any of the following:
+-simulate a sensor button press
+-simulate a sensor changing locations
+-send a low battery indication
+
+The sensor provider name is hard-coded in the API calls as "other-rtls".

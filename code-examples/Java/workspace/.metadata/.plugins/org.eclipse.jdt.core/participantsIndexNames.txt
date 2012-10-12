@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\src\insites-sdk\code-samples\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1374019185.index
+\StaffLister\src
+C:\src\insites-sdk\code-samples\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2001895565.index
+\StaffLister_backup\src
