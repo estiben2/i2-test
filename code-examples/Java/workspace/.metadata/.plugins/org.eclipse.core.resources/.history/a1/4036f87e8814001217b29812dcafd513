@@ -8,6 +8,7 @@ This class implements the BasicClient class to perform HTTP requests.*/
 package com.intelligentinsites.codesamples;
 
 import com.intelligentinsites.codesamples.BasicClient;
+import java.io.*;
 
 public class APIExamples {
 	static BasicClient client;

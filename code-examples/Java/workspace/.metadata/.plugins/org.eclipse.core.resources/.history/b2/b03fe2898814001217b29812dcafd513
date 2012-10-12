@@ -15,8 +15,8 @@ public class APIExamples {
     	client = new BasicClient("www.insites-dev.intelligentinsites.com", "username", "password");
     	
         //// limit
-    	System.out.println(client.get("/api/2.0/rest/equipment.xml"));			//Get 100 equipment resources
-    	//System.out.println(client.get("/api/2.0/rest/equipment.xml?limit=3"));	//Get 3 equipment resources
+    	//System.out.println(client.get("/api/2.0/rest/equipment.xml"));			//Get 100 equipment resources
+    	System.out.println(client.get("/api/2.0/rest/equipment.xml?limit=3"));	//Get 3 equipment resources
     	//System.out.println(client.get("/api/2.0/rest/equipment.xml?limit=-1"));	//Get all equipment resources
         
         //// limit + first-result

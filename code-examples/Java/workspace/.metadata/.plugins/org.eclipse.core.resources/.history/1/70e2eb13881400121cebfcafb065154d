@@ -8,9 +8,10 @@ This class implements the BasicClient class to perform HTTP requests.*/
 package com.intelligentinsites.codesamples;
 
 import com.intelligentinsites.codesamples.BasicClient;
+import java.io.*;
 
 public class APIExamples {
-	static BasicClient client;
+	static com.intelligentinsites.codesamples.BasicClient client;
     public static void main(String[] args) {
     	client = new BasicClient("www.insites-dev.intelligentinsites.com", "username", "password");
     	

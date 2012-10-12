@@ -47,7 +47,6 @@
 <fullyQualifiedTypeName name="java.util.AbstractMap"/>
 <fullyQualifiedTypeName name="java.util.AbstractMap.SimpleEntry"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
-<fullyQualifiedTypeName name="com.intelligentinsites.codesamples.BasicClient"/>
 <fullyQualifiedTypeName name="android.app.AlertDialog"/>
 <fullyQualifiedTypeName name="android.content.DialogInterface"/>
 <fullyQualifiedTypeName name="android.R.drawable"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="java.io.OutputStream"/>
 <fullyQualifiedTypeName name="org.apache.commons.io.output.ByteArrayOutputStream"/>
 <fullyQualifiedTypeName name="org.apache.http.entity.BufferedHttpEntity"/>
+<fullyQualifiedTypeName name="com.intelligentinsites.codesamples.BasicClient"/>
 </qualifiedTypeNameHistroy>
