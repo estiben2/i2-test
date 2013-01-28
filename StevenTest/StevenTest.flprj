@@ -1,3 +1,3 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="false">
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="true" SourceControlDatabase="https://github.com/estiben/i2-test.git" SourceControlProviderType="Subversion" ProjectGuid="b778d134-541d-40c0-99da-90aa0cebf9e5" SourceControlDatabaseRoot="https://github.com/estiben/i2-test.git/trunk/StevenTest/">
 </CatapultProject>
